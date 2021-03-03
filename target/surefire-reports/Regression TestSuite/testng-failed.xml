@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression TestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="org.Autotests.Test_Cases">
+        <methods>
+          <include name="afterClass"/>
+          <include name="TestCase3"/>
+          <include name="TestCase2"/>
+          <include name="Initialize_driver"/>
+        </methods>
+      </class> <!-- org.Autotests.Test_Cases -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Regression TestSuite] -->
