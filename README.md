@@ -8,3 +8,5 @@
 4. The postman collection I was able to create a new user, and bring up one user. I could not bring up 10 users because the api did not have much to go on for searching or filtering infact never had these in the documenation.
 
 Note I used Intelij as my IDE to create this maven tests, so when importing this ensure you have the above added to your project. Then run mvn clean, mvn compile, mvn test this can also be done on command line.
+
+Also I was not able to finish test4 if I was to complete that I currently use a framework called cypress.io to write java script test data.
